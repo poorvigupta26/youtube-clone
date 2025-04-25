@@ -1,0 +1,6 @@
+.root{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}

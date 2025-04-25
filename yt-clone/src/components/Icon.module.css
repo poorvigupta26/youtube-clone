@@ -1,0 +1,14 @@
+.root{
+    display: flex;
+    cursor: pointer;
+}
+
+
+
+
+.root img{
+    width: 50px;
+}
+.root p{
+    color: white;
+}

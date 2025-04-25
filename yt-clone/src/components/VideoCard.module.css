@@ -1,0 +1,22 @@
+.root img{
+    width: 400px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.root{
+    display: flex;
+    flex-direction: column;
+
+}
+.root p{
+    color: white;
+}
+.src{
+    display: flex;
+    gap: 20px;
+    color: white;
+}
+.src img{
+    width: 20px;
+    background-color: rgba(27, 96, 214, 0.497);
+}

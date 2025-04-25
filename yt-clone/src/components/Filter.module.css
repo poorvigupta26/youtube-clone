@@ -1,0 +1,18 @@
+.root{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.root button{
+    background-color: rgba(255, 249, 249, 0.278);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    height: 40px;
+    font-size: 15px;
+    width: auto;
+}
+.root button:hover{
+    background-color: rgb(227, 22, 22);
+    cursor: pointer;
+}
